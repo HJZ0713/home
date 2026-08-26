@@ -26,6 +26,10 @@
           <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
             {{ siteIcp }}
           </a>
+          &amp;
+          <a href="https://beian.mps.gov.cn/#/query/webSearch?code=37081102000871" rel="noreferrer" target="_blank">
+            鲁公网安备37081102000871号
+          </a>
         </span>
       </div>
       <div v-else class="lrc">
